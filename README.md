@@ -27,7 +27,7 @@ jainesh = {
     "location"   : "Charlotte, NC 🏙️",
     "education"  : ["M.S. Data Science & Business Analytics @ UNC Charlotte (2025–2026)",
                     "B.S. Computer Science (Data Science) @ UNC Charlotte – GPA: 3.57"],
-    "roles"      : ["Graduate Teaching Assistant", "Academic Tutor", "Hackathon Winner 🏆"],
+    "roles"      : ["Data Analyst", "Graduate Teaching Assistant", "Ex-Software Engineer", "Hackathon Winner 🏆"],
     "interests"  : ["Machine Learning", "Data Analytics", "Predictive Modeling", "AI"],
     "currently"  : "Building smarter models and teaching the next gen of data scientists",
     "fun_fact"   : "Won 1st Place at UNC Charlotte Hackathon 2023 🎉"
@@ -112,17 +112,30 @@ jainesh = {
 </td>
 <td width="50%">
 
-### 🎵 Music Streaming Recommendation App
-> **Full-Stack Web App with OpenAI API**
+### 🎵 [SameRhythmRadar](https://github.com/Jullu11/SRR--music-streaming-platforms)
+> **Full-Stack Music Recommendation App with OpenAI API**
 
-- Full-stack music recommendation web app using the **OpenAI API**
-- Built with HTML/CSS/JS for a seamless user experience
+- Interprets natural-language requests with **GPT-3.5 Turbo** to recommend songs
+- **Python** backend with REST APIs connecting the UI, AI and database layers
+- System designed with UML and sequence diagrams
 
-`HTML` `CSS` `JavaScript` `OpenAI API`
+`Python` `OpenAI API` `REST API` `Full-Stack`
 
 </td>
 </tr>
 </table>
+
+### ⚡ Hackathon Builds
+
+| Project | Event | What it does | Links |
+|---|---|---|---|
+| 🗽 **BlockedNYC** | DivHacks 2026 | Maps NYC parades, protests & roadwork from NYC Open Data, shows a 7-day closure timeline, forecasts recurring closures and routes around them | [Demo](https://divhacks-flax.vercel.app) · [Devpost](https://devpost.com/software/blockednyc) · [Code](https://github.com/Jullu11/divhacks) |
+| 🛂 **UniVisa** | Hacklytics 2026 | Scores F-1/J-1 visa-compliance risk 0–100; risk rules shaped by clustering Reddit posts (UMAP + HDBSCAN); Gemini RAG advisor over USCIS docs | [Devpost](https://devpost.com/software/univisa) · [Code](https://github.com/aryamankachroo/UniVisa/tree/main/VisaGuard%20Frontend%20Design) |
+| 🩺 **ProEdge** | HooHacks 2026 | MCAT study companion — Gemini turns practice-exam PDFs into section analytics, adaptive plans and burnout-aware calendars | [Demo](https://proedge-mu.vercel.app) · [Devpost](https://devpost.com/software/proedge) · [Code](https://github.com/aryamankachroo/ProEdge) |
+| 🧾 **Lodestone** | HackNC 2026 | Checks purchase receipts sent over iMessage against CPSC recall notices — Gemini extracts fields, deterministic rules decide | [Code](https://github.com/Jullu11/RecallRadar) |
+| 🕵️ **Night Archivist** | HackNC State 2026 | Multimodal AI assistant that reconstructs timelines from video + text evidence and narrates the case | [Devpost](https://devpost.com/software/night-archivist) · [Code](https://github.com/Jullu11/NightArchivist) |
+
+👉 **See all projects on my [portfolio](https://jainesh-porfolio.netlify.app/)**
 
 ---
 
@@ -155,8 +168,14 @@ jainesh = {
 
 ## 💼 Experience
 
-**🎓 Graduate Teaching Assistant** — *UNC Charlotte (Jan 2025 – Present)*
-> Supported lab sessions, graded assignments with detailed feedback, and helped students debug code in data-focused coursework.
+**📊 Data Analyst** — *Aquaa Care (Surat) RO Technologies · Remote (May 2025 – Present)*
+> Analyze digital marketing & social media data, build Power BI / Tableau / Excel dashboards, and run predictive analysis to forecast user behavior.
+
+**🎓 Graduate Teaching Assistant** — *UNC Charlotte (Jan 2026 – Apr 2026 · Aug 2026 – Present)*
+> Support weekly class and lab sessions, help students with coding and troubleshooting, and grade assignments with detailed rubric-based feedback.
+
+**💻 Software Engineer** — *Viha IT Solution (Apr 2024 – Apr 2025)*
+> Implemented backend logic and data handling, debugged and optimized application code, and followed version control and secure-coding practices in a remote team.
 
 **📚 Academic Tutor** — *UNC Charlotte (Jan 2024 – Dec 2025)*
 > Mentored undergrads in Statistics, Probability, and Linear Algebra (STAT 1220, MATH 1101, MATH 1141, MATH 2164).
